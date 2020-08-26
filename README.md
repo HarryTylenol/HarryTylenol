@@ -1,16 +1,26 @@
-### Hi there 👋
+### Welcome!👋
+I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 
-<!--
-**HarryTylenol/HarryTylenol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🔭 I'm interested!
+- Kotlin/Native
+- Dagger Hilt
+- Kotlin Coroutines
+- Jetpack Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💕 I like!
+- Delicious food and drink
+- EDM (+ EDM festival)
+- Google Pixel
+
+
+#### 👯 I enjoy!
+- Make music <br/>([Youtube](https://www.youtube.com/channel/UCqKBiXiMvMb3e5UE-hWC72w)  |  [Soundcloud](https://soundcloud.com/tylenol-1))
+- Design App UI/UX
+- Drawing
+
+
+#### 📫 Contact me! 
+- jungsanmango@gmail.com
+- harry.park@mathpresso.com
