@@ -2,7 +2,7 @@
 I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 
 
-## 🔭 I'm interested!
+## 🔭 I'm interested in!
 - Kotlin/Native
 - Dagger Hilt
 - Kotlin Coroutines
