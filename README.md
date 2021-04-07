@@ -1,6 +1,10 @@
 # Welcome!👋
 I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 
+## 💻 Stats
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryTylenol&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&icon_color=ffffff)<br/>
+![Harry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&icon_color=ffffff)<br/>
+![Harry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&show_icons=true&theme=dark&langs_count=4&layout=compact&hide_border=true&bg_color=0D1117&icon_color=ffffff)
 
 ## 🔭 I'm interested in!
 - Kotlin/Native
