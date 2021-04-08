@@ -7,7 +7,7 @@ I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 ![Harry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&show_icons=true&theme=dark&langs_count=4&layout=compact&hide_border=true&bg_color=0D1117&icon_color=ffffff)
 
 ## 🔭 I'm interested in!
-- Kotlin/Native
+- Kotlin Multiplatform Mobile
 - Dagger Hilt
 - Kotlin Coroutines
 - Jetpack Compose
