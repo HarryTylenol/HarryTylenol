@@ -2,9 +2,34 @@
 I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 
 ## 💻 Stats
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryTylenol&theme=dark&count_private=true&hide_border=true&bg_color=0E1116)<br/>
-![Harry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&theme=dark&layout=compact&hide_border=true&bg_color=0E1116&icon_color=ffffff)<br/>
-![Harry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&theme=dark&langs_count=4&layout=compact&hide_border=true&bg_color=0E1116)
+
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=HarryTylenol&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=HarryTylenol&count_private=true&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only&langs_count=4"/>
+</a>
+
+<a href="https://github.com/itaditya##gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&langs_count=4&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
 
 ## 🔭 I'm interested in!
 - Kotlin Multiplatform Mobile
