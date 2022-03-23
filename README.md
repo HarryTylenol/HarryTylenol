@@ -8,7 +8,7 @@ I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 </a>
 
 <a href="https://github.com/itaditya##gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=HarryTylenol&count_private=true&hide_border=true&theme=light#gh-light-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarryTylenol&count_private=true&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
 </a>
 
 <br/>
@@ -18,7 +18,7 @@ I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 </a>
 
 <a href="https://github.com/itaditya##gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HarryTylenol&layout=compact&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 </a>
 
 <a href="https://github.com/itaditya##gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&langs_count=4&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryTylenol&langs_count=4&icon_color=000000&layout=compact&hide_border=true&theme=light#gh-light-mode-only"/>
 </a>
 
 ## 🔭 I'm interested in!
