@@ -3,6 +3,8 @@ I'm Hyun Ki Park (Harry), Android App Developer of Qanda, Mathpresso! 😄
 
 ## 💻 Stats
 
+[![wakatime](https://wakatime.com/badge/user/0155422f-b7f8-4647-ad51-6b05094e7fa4.svg)](https://wakatime.com/@0155422f-b7f8-4647-ad51-6b05094e7fa4)
+
 <a href="https://github.com/itaditya#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=HarryTylenol&count_private=true&hide_border=true&theme=dark&bg_color=0E1116&icon_color=ffffff#gh-dark-mode-only"/>
 </a>
