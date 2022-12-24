@@ -54,4 +54,4 @@ I'm Hyun Ki Park (Harry), Android App Developer of Toss, Viva Republica! 😄
 
 ## 📫 Contact me! 
 - jungsanmango@gmail.com
-- harry.park@mathpresso.com
+- hyunki.park@toss.im
